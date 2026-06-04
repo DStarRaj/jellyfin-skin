@@ -13,3 +13,8 @@
 .trackSelections {
     max-width: 44em;
 }
+
+.skip-button{
+    background: #77b8d1;
+    background: radial-gradient(circle, rgba(119, 184, 209, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+}
