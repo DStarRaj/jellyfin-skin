@@ -9,3 +9,7 @@
 .section0 .itemsContainer {
     flex-wrap: wrap;
 }
+
+.trackSelections {
+    max-width: 44em;
+}
