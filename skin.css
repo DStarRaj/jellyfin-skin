@@ -1,0 +1,11 @@
+@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/presets/monochromic_preset.css');
+@import url('https://ctalvio.github.io/Monochromic/customcolor-advanced_style.css');
+
+:root {
+    --accent: 0, 95, 90;
+    --rounding: 5px;
+}
+
+.section0 .itemsContainer {
+    flex-wrap: wrap;
+}
